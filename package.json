@@ -1,0 +1,31 @@
+{
+  "name": "angularapp",
+  "version": "1.0.0",
+  "description": "Scalable and clean structure for Angular 1.6+ applications",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "Ralph Marschall",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^13.3.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-environments": "^0.1.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.4",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-ui-router": "^1.0.0-beta.3"
+  }
+}

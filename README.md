@@ -10,6 +10,9 @@ Based on the tutorial : http://code.ciphertrick.com/2015/11/23/scalable-angularj
 - `npm install` to install all required node modules.
 - `gulp` to start the browserSync server.
 - `gulp clean` to clean the public directory.
+- `gulp test` to launch Karma. *TODO*
+- `gulp protractor` to launch e2e tests. *TODO*
+
 
 See `gulpfile.js` for more tasks.
 

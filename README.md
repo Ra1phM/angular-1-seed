@@ -5,6 +5,14 @@ It makes uses of Angular Components, browserify and gulp.
 
 Based on the tutorial : http://code.ciphertrick.com/2015/11/23/scalable-angularjs-setup-with-gulp-browserify/
 
+# Usage
+
+- `npm install` to install all required node modules.
+- `gulp` to start the browserSync server.
+- `gulp clean` to clean the public directory.
+
+See `gulpfile.js` for more tasks.
+
 # Basic Structure
 
     src/ # Contains the source code
